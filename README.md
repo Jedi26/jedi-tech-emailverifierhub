@@ -4,6 +4,7 @@ A modern React-Vite project with N8N powered AI automations. Open Sourced Email 
 
 <img src="images/Jedit Tech Email Verifier Hub.png" width="700">
 
+[Jedi Tech Email Verifier Hub](https://jedi-tech-emailverifierhub.netlify.app/)
 
 ## 🙏 Acknowledgments
 
