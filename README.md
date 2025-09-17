@@ -1,7 +1,5 @@
 # Jedi Tech Email Verifier Hub 🚀
 
-![Jedi Tech Banner](images/banner.png)  <!-- Replace with your image path or URL -->
-
 **Jedi Tech Email Verifier Hub** is a fast, reliable, and intuitive web application for verifying email addresses in bulk or individually. Designed for developers, marketers, and businesses, it helps you clean up your email lists and improve deliverability. A modern React-Vite project with N8N powered AI automations. Open Sourced Email Verification Hub by Jedi Bentillo. 
 
 ---
