@@ -1,6 +1,6 @@
 # JEDI TECH VERIFICATION HUB
 
-A modern React-based project with N8N powered ai automations. Open Sourced Email Verification Hub by Jedi Tech. 
+A modern React-Vite project with N8N powered AI automations. Open Sourced Email Verification Hub by Jedi Tech. 
 
 
 ## 🙏 Acknowledgments
